@@ -1,16 +1,36 @@
-## Hi there 👋
+# ¡Hola! Soy Javier Ortega 👋
 
-<!--
-**javierom21/javierom21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico Superior en ASIR  
+💻 Estudiante de Ingeniería Informática  
+🛠️ Interesado en administración de sistemas, redes, Linux, virtualización y soporte IT.
 
-Here are some ideas to get you started:
+## Sobre mí
+Soy una persona con formación en administración de sistemas y con ganas de seguir creciendo en el sector IT.  
+Me interesa especialmente trabajar con entornos Linux, redes, máquinas virtuales, Docker y soporte técnico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y herramientas
+- Linux
+- Windows Server / Desktop
+- Docker
+- VirtualBox
+- MySQL
+- SQL Server
+- HTML / CSS / WordPress
+- Java
+- C++
+
+## Proyectos
+### Servidor Linux
+Montaje y configuración de un servidor Linux con gestión de usuarios, acceso remoto y servicios básicos.
+
+### Virtualización y contenedores
+Uso de máquinas virtuales y contenedores Docker para pruebas de entornos y despliegues básicos.
+
+## Actualmente
+- Estudiando Ingeniería Informática
+- Mejorando conocimientos en sistemas y redes
+- Subiendo proyectos a GitHub
+
+## Contacto
+📍 Armilla, Granada  
+📧 javieromtw@gmail.com
